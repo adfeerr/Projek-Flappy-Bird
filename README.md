@@ -21,6 +21,8 @@ Download lewat terminal(Khususnya terminal VScode):
 Download langsung filenya:
 1. Download VScode
 2. Buat folder untuk file ini
+  <img width="1351" height="626" alt="image" src="https://github.com/user-attachments/assets/ee04d846-78af-4a58-8a50-19f6f1b65ce1" />
+
 3. Buka github dan download code dari git kami, dan masukan file code kami ke dalam folder yang udah kalian buat
 4. Lalu buka VScode dan arahkan kursor ke "File" dan klik
 5. Terakhir, klik "Open Folder" dan cari file yang udah di buat
