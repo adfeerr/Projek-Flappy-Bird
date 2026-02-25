@@ -33,6 +33,7 @@ Download langsung filenya:
 3. Jalankan game
 
 
+Dan ini adalah, logic dari game yang kami buat
 # Langkah 1 (Importing)
 1. Import module pygame(untuk fungsional game dan menampilkan game)
 2. Import system dan hanya mengambil spesifik yaitu function exit
